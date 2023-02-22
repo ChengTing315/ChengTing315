@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChengTing
 - 👀 I’m interested in Web/Mobile development
-- 🌱 I’m currently learning Typescript/NextJS
+- 🌱 I’m currently learning Typescript/NextJS/Python
 - 📫 How to reach me:
 Find my website:
 https://c-tportfolio.vercel.app/
